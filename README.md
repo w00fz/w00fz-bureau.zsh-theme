@@ -11,7 +11,7 @@ Then, to enable it, set `ZSH_THEME` to `w00fz-bureau` in your `~/.zshrc`, before
 
 ## Colors Palette
 
-I use [iTerm2](https://www.iterm2.com/) as terminal of choice on my mac. If you like my palette, you can import the [w00fz.itermcolors](w00fz.itemrcolors) that is available in this repo.
+I use [iTerm2](https://www.iterm2.com/) as terminal of choice on my mac. If you like my palette, you can import the [w00fz.itermcolors](w00fz.itermcolors) that is available in this repo.
 
 # My Oh-My-Zsh Plugins
 ```
